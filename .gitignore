@@ -1,0 +1,34 @@
+# Archivos binarios o ejecutables
+*.out
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# Archivos de compilación
+*.obj
+*.d
+*.dSYM/
+*.class
+
+# Directorios de compilación
+build/
+cmake-build-debug/
+cmake-build-release/
+bin/
+out/
+
+# Archivos generados por el IDE
+.idea/
+.vscode/
+.clangd/
+*.swp
+*~
+
+# Archivos de registro
+*.log
+
+# Otros archivos temporales
+*.tmp
+*.cache
