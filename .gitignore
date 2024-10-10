@@ -1,4 +1,10 @@
+# Ignorar el archivo ejecutable 'main'
+main
+
+
 # Archivos binarios o ejecutables
+
+
 *.out
 *.exe
 *.o
